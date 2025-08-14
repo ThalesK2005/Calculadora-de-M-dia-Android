@@ -4,4 +4,4 @@ ele calcula a média de 3 notas.
 
 # Download para Android:
 
-Baixe o APK aqui: [Download APK](release/meu_app.apk)
+Baixe o APK aqui: [Download APK](release/medias.apk)
